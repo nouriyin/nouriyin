@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Courtney!<br/>
-- 👩‍🏫 I am a newbie programmer, still completeing my coding bootcamp at Georgia Tech. I graduate in June of 2023!<br/>
+- 👩‍🏫 I am a newbie programmer, i completed a full stack coding bootcamp at Georgia Tech. I graduated in June of 2023!<br/>
 - 🌱 I am currently learning React, SQL, NOSQL, and MongoDB.<br/>
 - 📚 I am currently working towards more certifications.<br/>
 - 👩‍💻 Current Certifications Include:<br/>
